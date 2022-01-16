@@ -1,0 +1,62 @@
+body
+{
+	background-image:url(coolbackground1.jpg);
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	background-size: cover;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		color: ghostwhite;
+		background-image: linear-gradient(to bottom right, rgb(77, 20, 143), rgb(26, 27, 122), rgb(151, 35, 161) );
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #35176b;
+padding: 10px;
+float: none;
+text-align: left;
+}
+h1{
+	background-image: linear-gradient(to bottom right, rgb(77, 20, 143), rgb(151, 35, 161) );
+	color:ghostwhite;
+}
+#login_btn{
+	background-image: linear-gradient(to bottom right, rgb(77, 20, 143), rgb(151, 35, 161) );
+}
+#mathquiz{
+	width : 200px;
+}
+#send{
+	
+}
+#player1_name , #player2_name{
+color:white;
+}
+#player1_score , #player2_score{
+	color:white;
+}
+#player_question , #player_answer{
+	color:white;
+}
